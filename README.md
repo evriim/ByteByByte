@@ -13,7 +13,7 @@ This repository is organized into the following categories:
 - [**C++**](https://isocpp.org/)
 - [**Java**](https://www.oracle.com/java/)
 
-These folders contain examples, exercises, and projects specific to each programming language.
+These folders contain information and articles I've read related to each programming language.
 
 ### 2. Topics
 - **Web_Development**
