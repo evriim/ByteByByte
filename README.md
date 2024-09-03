@@ -7,59 +7,59 @@
 This repository is organized into the following categories:
 
 ### 1. Languages
-- [**Python/**](https://www.python.org/)
-- [**JavaScript/**](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [**HTML/**](https://developer.mozilla.org/en-US/docs/Web/HTML)_[**CSS/**](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [**C++/**](https://isocpp.org/)
-- [**Java/**](https://www.oracle.com/java/)
+- [**Python**](https://www.python.org/)
+- [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [**HTML**](https://developer.mozilla.org/en-US/docs/Web/HTML) [**CSS**](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [**C++**](https://isocpp.org/)
+- [**Java**](https://www.oracle.com/java/)
 
 These folders contain examples, exercises, and projects specific to each programming language.
 
 ### 2. Topics
-- **Web_Development/**
-- **Artificial_Intelligence/**
-- **Data_Science/**
-- **Algorithms/**
-- **Embedded_Systems/**
+- **Web_Development**
+- **Artificial_Intelligence**
+- **Data_Science**
+- **Algorithms**
+- **Embedded_Systems**
 
 Here, you'll find more specialized content organized by subject area, allowing for focused learning.
 
 ### 3. Challenges
-- [**Project_Euler/**](https://projecteuler.net/)
-- [**LeetCode/**](https://leetcode.com/)
-- **Codewars/**
-- **HackerRank/**
+- [**Project Euler**](https://projecteuler.net/)
+- [**LeetCode**](https://leetcode.com/)
+- **Codewars**
+- **HackerRank**
 
 This section is dedicated to coding challenges from various platforms, along with my solutions and explanations.
 
 ### 4. Courses
-- [**Coursera/**](https://www.coursera.org/)
-- [**Udemy/**](https://www.udemy.com/)
-- [**YouTube/**](https://www.youtube.com/)
-- [**Books/**]()
+- [**Coursera**](https://www.coursera.org/)
+- [**Udemy**](https://www.udemy.com/)
+- [**YouTube**](https://www.youtube.com/)
+- [**Books**]()
 
 These folders include notes, projects, and resources from the courses I’ve taken to strengthen my knowledge across different areas of software development.
 
 ### 5. Projects
-- **Web_Applications/**
-- **Machine_Learning_Models/**
-- **Automation_Tools/**
-- **Personal_Projects/**
+- **Web_Applications**
+- **Machine_Learning_Models**
+- **Automation_Tools**
+- **Personal_Projects**
 
 This section showcases the projects I've worked on, providing a practical application of the concepts I've learned.
 
 ### 6. Resources
-- **Documentation/**
-- **Cheat_Sheets/**
-- **Notes/**
-- **Articles/**
+- **Documentation**
+- **Cheat_Sheets**
+- **Notes**
+- **Articles**
 
 Here, you'll find various resources that I’ve found helpful, including documentation, cheat sheets, and informative articles.
 
 ### 7. Miscellaneous
-- **Sandbox/**
-- **Experiments/**
-- **Scratchpad/**
+- **Sandbox**
+- **Experiments**
+- **Scratchpad**
 
 This section is for experimental code, miscellaneous projects, and ideas that don’t quite fit into the other categories.
 
