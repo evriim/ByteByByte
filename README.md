@@ -32,15 +32,7 @@ Here, you'll find more specialized content organized by subject area, allowing f
 
 This section is dedicated to coding challenges from various platforms, along with my solutions and explanations.
 
-### 4. Courses
-- [**Coursera**](https://www.coursera.org/)
-- [**Udemy**](https://www.udemy.com/)
-- [**YouTube**](https://www.youtube.com/)
-- [**Books**]()
-
-These folders include notes, projects, and resources from the courses I’ve taken to strengthen my knowledge across different areas of software development.
-
-### 5. Projects
+### 4. Projects
 - **Web_Applications**
 - **Machine_Learning_Models**
 - **Automation_Tools**
@@ -48,7 +40,7 @@ These folders include notes, projects, and resources from the courses I’ve tak
 
 This section showcases the projects I've worked on, providing a practical application of the concepts I've learned.
 
-### 6. Resources
+### 5. Resources
 - **Documentation**
 - **Cheat_Sheets**
 - **Notes**
@@ -56,7 +48,7 @@ This section showcases the projects I've worked on, providing a practical applic
 
 Here, you'll find various resources that I’ve found helpful, including documentation, cheat sheets, and informative articles.
 
-### 7. Miscellaneous
+### 6. Miscellaneous
 - **Sandbox**
 - **Experiments**
 - **Scratchpad**
