@@ -1,7 +1,7 @@
 """
-nums1 has a size of m + n, where the first m elements are valid and the last n elements are placeholders (zeros) for the elements from nums2.
-nums2 has n valid elements.
-The goal is to merge both arrays in non-decreasing order directly into nums1.
+This problem is about merging two sorted integer arrays, nums1 and nums2, into one sorted array. 
+The array nums1 has additional space at the end to accommodate the elements from nums2,
+and the task is to modify nums1 in-place.
 """
 class Solution(object):
     def merge(self, nums1, m, nums2, n):
