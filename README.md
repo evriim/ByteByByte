@@ -26,7 +26,7 @@ Here, you'll find more specialized content organized by subject area, allowing f
 
 ### 3. Challenges
 - [**Project Euler**](https://projecteuler.net/)
-- [**LeetCode**](https://leetcode.com/) - [**ME**](https://leetcode.com/u/evrim01/)
+- [**LeetCode**](https://leetcode.com/) - [**Me**](https://leetcode.com/u/evrim01/)
 - **Codewars**
 - **HackerRank**
 
