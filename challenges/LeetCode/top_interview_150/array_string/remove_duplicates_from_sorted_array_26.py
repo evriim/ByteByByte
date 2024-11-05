@@ -1,5 +1,9 @@
 """
-Since the array is sorted, duplicates will always be next to each other. This allows us to efficiently remove duplicates by iterating through the array once and overwriting duplicates in place. By maintaining a pointer for the next unique element, we can avoid the need for additional memory and achieve the result in linear time.
+Since the array is sorted, duplicates will always be next to each other.
+This allows us to efficiently remove duplicates by iterating through the
+array once and overwriting duplicates in place. By maintaining a pointer
+for the next unique element, we can avoid the need for additional memory
+and achieve the result in linear time.
 """
 class Solution(object):
     def removeDuplicates(self, nums):
