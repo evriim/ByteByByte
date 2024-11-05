@@ -1,5 +1,9 @@
 """
-The problem involves merging two sorted arrays, nums1 and nums2, where nums1 has enough space at the end to accommodate nums2. Since both arrays are sorted, the idea is to fill nums1 starting from the end, which avoids overwriting elements in nums1 while still merging efficiently.
+The problem involves merging two sorted arrays, nums1 and nums2,
+where nums1 has enough space at the end to accommodate nums2. 
+Since both arrays are sorted, the idea is to fill nums1 starting
+from the end, which avoids overwriting elements in nums1 while still
+merging efficiently.
 """
 class Solution(object):
     def merge(self, nums1, m, nums2, n):
