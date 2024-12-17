@@ -29,7 +29,7 @@ Here, you'll find more specialized content organized by subject area, allowing f
 - [**LeetCode**](https://leetcode.com/) - [**Me**](https://leetcode.com/u/evrim01/)
 - **Codewars**
 - **HackerRank**
-- [**Kaggle**](www.kaggle.com) - [**Me**](https://www.kaggle.com/evriim)
+- [**Kaggle**](https://www.kaggle.com/) - [**Me**](https://www.kaggle.com/evriim)
 
 This section is dedicated to coding challenges from various platforms, along with my solutions and explanations.
 
